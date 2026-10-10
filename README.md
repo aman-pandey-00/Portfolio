@@ -211,9 +211,6 @@ The command starts the server using `local-server.js`.
 
 ### Step 5: Open the Website
 
-Open your browser and visit:
-
-**http://localhost:3000**
 
 The local server should display the portfolio website.
 
