@@ -1,36 +1,34 @@
 # Aman Kumar Pandey — Personal Portfolio
 
-A modern and responsive personal portfolio website built to showcase my professional profile, technical skills, projects, educational background, and resume.
+A modern, responsive personal portfolio website showcasing my professional profile, technical skills, projects, education, work experience, achievements, certifications, and resume.
 
-<p align="center">
-  <a href="https://aman-pandey-00.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
-  </a>
-  <a href="https://github.com/aman-pandey-00/Portfolio-">
-    <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
-  </a>
-</p>
+🌐 **Live Portfolio:** [Visit My Portfolio](https://aman-pandey-00.github.io/Portfolio-/)  
+💻 **GitHub Repository:** [Portfolio Repository](https://github.com/aman-pandey-00/Portfolio-)
 
 ---
 
 ## 📌 Table of Contents
 
-* [Overview](#-overview)
-* [About Me](#-about-me)
-* [Objectives](#-objectives)
-* [Features](#-features)
-* [Technology Stack](#-technology-stack)
-* [Project Structure](#-project-structure)
-* [Prerequisites](#-prerequisites)
-* [Installation and Setup](#-installation-and-setup)
-* [Available Commands](#-available-commands)
-* [Run Locally](#-run-locally)
-* [Deployment](#-deployment)
-* [Live Demo](#-live-demo)
-* [Resume](#-resume)
-* [Future Improvements](#-future-improvements)
-* [Contact](#-contact)
-* [License](#-license)
+- [Overview](#-overview)
+- [About Me](#-about-me)
+- [Career Objective](#-career-objective)
+- [Education](#-education)
+- [Work Experience](#-work-experience)
+- [Technical Skills](#-technical-skills)
+- [Projects](#-projects)
+- [Achievements](#-achievements)
+- [Certifications](#-certifications)
+- [Features](#-features)
+- [Technology Stack](#️-technology-stack)
+- [Project Structure](#-project-structure)
+- [Prerequisites](#-prerequisites)
+- [Installation and Setup](#-installation-and-setup)
+- [Available Commands](#-available-commands)
+- [Deployment](#-deployment-with-github-pages)
+- [Resume](#-resume)
+- [Future Improvements](#-future-improvements)
+- [Contact](#-contact)
+- [License](#-license)
 
 ---
 
@@ -38,86 +36,181 @@ A modern and responsive personal portfolio website built to showcase my professi
 
 Welcome to my personal portfolio repository.
 
-This project provides a central platform to explore my professional profile, technical skills, projects, educational background, and resume. It is designed to present relevant information in a clean, organized, and accessible format.
+This portfolio is designed to present my academic background, professional experience, technical skills, and practical software development projects in one place.
 
-The portfolio also demonstrates my practical understanding of web technologies and my interest in continuous learning and professional development.
+It highlights my knowledge of software engineering, full-stack web development, programming, database management, and data analytics.
 
-**Live Website:** [Visit My Portfolio](https://aman-pandey-00.github.io/Portfolio/)
+The website provides visitors with easy access to my projects, professional information, certifications, and resume.
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Aman Kumar Pandey**.
+Hi, I'm **Aman Kumar Pandey**, a BCA student specializing in Data Science and Artificial Intelligence at Babu Banarasi Das University, Lucknow.
 
-I am interested in technology, software testing, documentation, and web development. I enjoy learning new technologies, improving my technical knowledge, and developing practical skills through projects.
+I have a strong interest in software engineering, full-stack web development, and data analytics.
 
-Through this portfolio, I aim to showcase my work, educational background, and professional interests in one place.
+I enjoy building practical applications, solving technical problems, working with databases, and exploring new technologies.
+
+I continuously work on improving my programming, analytical, communication, and problem-solving skills through academic learning and practical projects.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Career Objective
 
-The main objectives of this project are:
+To pursue an entry-level Software Development Engineer (SDE) or Data Analyst opportunity where I can apply my technical knowledge, analytical thinking, and software development skills to solve real-world problems and contribute to organizational growth.
 
-* Establish a professional online presence.
-* Showcase technical skills and projects.
-* Present educational qualifications and professional interests.
-* Provide convenient access to my resume.
-* Demonstrate practical knowledge of web technologies.
-* Make my work accessible through a public website.
-* Build a portfolio that can be updated as my skills and experience grow.
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Year |
+|---|---|---|
+| Bachelor of Computer Applications (BCA) in Data Science & AI — CGPA: 9.05 | Babu Banarasi Das University, Lucknow | 2024–2027 |
+| Diploma in Computer Application (DCA) | Sanjay Gandhi Computer Saksharta Mission, New Delhi | 2025 |
+| Intermediate (PCB) | Umanath Singh Higher Secondary School, Jaunpur | 2024 |
+| High School | Umanath Singh Higher Secondary School, Jaunpur | 2022 |
+
+---
+
+## 💼 Work Experience
+
+### Internshala Student Partner (ISP)
+**Internshala — Student Engagement Program**
+
+- Promoted technical internships, software development opportunities, and skill-based online certification programs among 500+ college students.
+- Conducted campus outreach initiatives to increase student participation.
+- Contributed to increasing student engagement by over 35% across departments.
+- Developed leadership, technical communication, digital marketing, teamwork, and event coordination skills.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- SQL
+- JavaScript (ES6+)
+
+### Data Analytics & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Data Analysis
+- Microsoft Excel
+
+### Web Development & Databases
+- HTML5
+- CSS3
+- Node.js
+- Express.js
+- REST APIs
+- MySQL
+- PostgreSQL
+
+### Developer Tools & Platforms
+- Git
+- GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- pgAdmin
+- Postman
+
+### Soft Skills
+- Problem Solving
+- Critical Thinking
+- Continuous Learning
+- Adaptability
+- Technical Communication
+- Teamwork
+- Leadership
+
+---
+
+## 🚀 Projects
+
+### 1. SevaConnect — Local Service Finder
+
+**Technologies:** HTML5, CSS3, JavaScript, Node.js, MySQL, Google Maps API, REST APIs
+
+- Architected and developed a full-stack web application connecting customers with local service vendors.
+- Implemented Customer, Vendor, and Admin authentication modules.
+- Integrated Google Maps API for navigation and location-based functionality.
+- Developed an AI-powered conversational chatbot.
+- Optimized database queries and REST API endpoints to improve search performance and user experience.
+
+### 2. NEXA-GUARD — Smart Hostel Security Platform
+
+**Technologies:** HTML5, CSS3, JavaScript, UI/UX Design
+
+- Designed responsive, role-based security dashboards for Students, Parents, Guards, Wardens, and System Administrators.
+- Developed interactive frontend workflows.
+- Implemented QR code verification logic and digital gate pass management forms.
+- Designed real-time activity monitoring interfaces.
+
+### 3. India Super Tools — All-in-One Online Utilities Platform
+
+**Technologies:** HTML5, CSS3, JavaScript
+
+- Developed a web-based platform integrating multiple browser-based utility tools and developer resources.
+- Created structured and categorized tool navigation.
+- Focused on cross-browser compatibility and mobile-first responsive design.
+- Designed a unified dashboard for convenient access to online utilities.
+
+---
+
+## 🏆 Achievements
+
+- **Smart India Hackathon (SIH) 2026 — Internal Hackathon:** Shortlisted Team Member, Babu Banarasi Das University, Lucknow.
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuing Organization | Date |
+|---|---|---|
+| Generative AI for All | Infosys Springboard | Oct 24, 2026 |
+| AI Tools Workshop | Be10x | Oct 10, 2026 |
+| Create a Budget with Microsoft Excel | Coursera | Mar 05, 2026 |
+| Digital Application Fundamentals | FutureSkills | Feb 14, 2026 |
+| Python 101 for Data Science | IBM | Dec 11, 2025 |
+| Data Analytics Job Simulation | Deloitte | Nov 01, 2025 |
+| Business Analytics with Microsoft Excel | Simplilearn | Nov 01, 2025 |
+| Introduction to Prompt Engineering | Simplilearn | Oct 01, 2025 |
+| Diploma in Computer Application (DCA) | Sanjay Gandhi Institute, New Delhi | Nov 25, 2024 |
 
 ---
 
 ## ✨ Features
 
-### Professional Profile
-
-Presents an introduction and professional information in an organized format.
-
-### Skills and Projects
-
-Provides sections for presenting technical skills, projects, and practical experience.
-
-### Education
-
-Displays educational qualifications and academic background.
-
-### Resume Access
-
-Includes a resume document that visitors can access through the website when the correct file path is configured.
-
-### Profile Image
-
-Includes a personal profile image to create a professional introduction.
-
-### Responsive Interface
-
-Uses a layout intended to provide a consistent browsing experience across different screen sizes.
-
-### Interactive Elements
-
-Supports website interactions implemented with HTML, CSS, and JavaScript.
-
-### Public Hosting
-
-Can be published using GitHub Pages for convenient public access.
+- **Professional Introduction:** Presents my profile and career objective.
+- **Responsive Design:** Provides a mobile-friendly browsing experience.
+- **Dark and Light Theme:** Supports theme switching.
+- **Education Section:** Displays academic qualifications.
+- **Experience Section:** Highlights professional experience.
+- **Projects Showcase:** Presents practical development projects and technologies.
+- **Technical Skills:** Displays programming, development, and analytics skills.
+- **Certifications:** Showcases professional certifications and achievements.
+- **Resume Access:** Allows visitors to view and download my resume.
+- **Contact Form:** Uses EmailJS for browser-based message submission.
+- **Social Links:** Provides access to GitHub and LinkedIn profiles.
+- **Interactive Interface:** Includes JavaScript-powered website interactions.
 
 ---
 
 ## 🛠️ Technology Stack
 
-| Technology   | Purpose                                           |
-| ------------ | ------------------------------------------------- |
-| HTML5        | Structures website content                        |
-| CSS3         | Provides styling, layout, and visual presentation |
-| JavaScript   | Implements client-side functionality              |
-| Node.js      | Runs the local development server                 |
-| npm          | Manages project configuration and dependencies    |
-| Git          | Tracks changes to project files                   |
-| GitHub       | Hosts the source code repository                  |
-| GitHub Pages | Publishes the portfolio website                   |
+| Technology | Purpose |
+|---|---|
+| HTML5 | Website structure and content |
+| CSS3 | Styling, layouts, animations, and responsiveness |
+| JavaScript | Interactive functionality and client-side operations |
+| EmailJS | Contact form integration |
+| Node.js | Local development server |
+| npm | Project scripts and package management |
+| Git | Version control |
+| GitHub | Source code hosting |
+| GitHub Pages | Static website deployment |
 
 ---
 
@@ -133,38 +226,34 @@ Portfolio-/
 ├── index.html
 ├── local-server.js
 ├── package.json
-├── package-lock.json
 ├── .gitignore
 └── README.md
 ```
 
 ### File Descriptions
 
-| File or Directory        | Description                                                      |
-| ------------------------ | ---------------------------------------------------------------- |
-| `index.html`             | Main entry point of the portfolio website                        |
-| `assets/`                | Stores supporting website resources                              |
-| `assets/Aman-Resume.pdf` | Resume document                                                  |
-| `assets/profile.jpg`     | Profile image                                                    |
-| `local-server.js`        | Runs the local HTTP server                                       |
-| `package.json`           | Contains project metadata, scripts, and dependency configuration |
-| `package-lock.json`      | Records the resolved npm dependency tree                         |
-| `.gitignore`             | Excludes specified files and directories from Git                |
-| `README.md`              | Project documentation                                            |
-
-**Security note:** Environment files such as `.env` should not be committed to a public repository if they contain secrets or private credentials.
+| File / Directory | Description |
+|---|---|
+| `index.html` | Main portfolio website |
+| `assets/` | Stores website resources |
+| `assets/Aman-Resume.pdf` | Resume document |
+| `assets/profile.jpg` | Profile image |
+| `local-server.js` | Local development HTTP server |
+| `package.json` | Project metadata and npm scripts |
+| `.gitignore` | Excludes files that should not be tracked by Git |
+| `README.md` | Project documentation |
 
 ---
 
 ## 📋 Prerequisites
 
-Before running the project locally, make sure you have:
+To run the project locally, you need:
 
-* **Node.js:** Version 20 or later.
-* **npm:** Included with Node.js.
-* **Git:** Optional, for cloning the repository.
-* **Web browser:** Chrome, Edge, Firefox, or another modern browser.
-* **Code editor:** Visual Studio Code is recommended but optional.
+- Node.js 20 or later
+- npm (comes with Node.js)
+- A modern web browser
+- Git (optional)
+- Visual Studio Code (recommended)
 
 Check your installed versions:
 
@@ -176,8 +265,6 @@ npm --version
 ---
 
 ## 🚀 Installation and Setup
-
-Follow these steps to download and run the project locally.
 
 ### Step 1: Clone the Repository
 
@@ -191,95 +278,87 @@ git clone https://github.com/aman-pandey-00/Portfolio-.git
 cd Portfolio-
 ```
 
-### Step 3: Install Dependencies
-
-Run the following command:
-
-```bash
-npm install
-```
-
-This command reads `package.json` and installs the dependencies defined by the project. The current configuration does not declare any npm dependencies, but running the command prepares the local npm environment.
-
-### Step 4: Start the Local Server
+### Step 3: Start the Local Server
 
 ```bash
 npm start
 ```
 
-The command starts the server using `local-server.js`.
+### Step 4: Open the Website
 
-### Step 5: Open the Website
+Open the following URL in your browser:
 
+```text
+http://localhost:3000
+```
 
-The local server should display the portfolio website.
+**Note:** The project currently has no npm package dependencies, so running `npm install` is not required for the local server.
 
 ---
 
 ## 💻 Available Commands
 
-| Command          | Description                                      |
-| ---------------- | ------------------------------------------------ |
-| `npm install`    | Installs the project's npm dependencies          |
-| `npm start`      | Starts the local HTTP server                     |
-| `npm run dev`    | Starts the same local server in development mode |
-| `node --version` | Checks the installed Node.js version             |
-| `npm --version`  | Checks the installed npm version                 |
+| Command | Description |
+|---|---|
+| `node --version` | Checks Node.js version |
+| `npm --version` | Checks npm version |
+| `npm start` | Starts the local HTTP server |
+| `npm run dev` | Starts the development server |
+| `node local-server.js` | Runs the server directly |
 
 ---
 
 ## 🌐 Deployment with GitHub Pages
 
-GitHub Pages allows the portfolio to be hosted publicly without running a local Node.js server.
+This portfolio is a static website and can be hosted using GitHub Pages.
 
 ### Deployment Steps
 
-1. Open the [Portfolio GitHub Repository](https://github.com/aman-pandey-00/Portfolio-).
-2. Make sure `index.html` and the required website assets are committed to the `main` branch.
-3. Open **Settings → Pages**.
+1. Push the portfolio source code to your GitHub repository.
+2. Open your repository on GitHub.
+3. Navigate to **Settings → Pages**.
 4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Choose the `main` branch.
-6. Choose `/(root)` as the publishing directory.
+5. Select the `main` branch.
+6. Select the `/ (root)` directory.
 7. Click **Save**.
-8. Wait for the deployment to complete.
-9. If the website does not appear, check the repository's **Actions** tab for deployment errors.
+8. Wait for GitHub Pages deployment to complete.
+9. Open your published portfolio website.
 
-**Important:** GitHub Pages serves static files. You do not need to run `npm start` for the deployed website. The local server is used for testing on your computer.
+### Expected Live Website URL
 
----
+```text
+https://aman-pandey-00.github.io/Portfolio-/
+```
 
-## 🔗 Live Demo
-
-Explore the deployed portfolio:
-
-### [🌐 Visit My Portfolio Website](https://aman-pandey-00.github.io/Portfolio/)
-
-**GitHub Repository:** [View Source Code](https://github.com/aman-pandey-00/Portfolio-)
+**Important:** The GitHub Pages website does not require Node.js or `npm start`. GitHub Pages directly serves the `index.html` file and its referenced assets.
 
 ---
 
 ## 📄 Resume
 
-My resume is included in the `assets/` directory.
+My latest resume is available in the `assets/` directory.
 
-**Resume path:** `assets/Aman-Resume.pdf`
+**Resume File:**
 
-The portfolio's resume button or link must reference this exact path for the document to open correctly.
+```text
+assets/Aman-Resume.pdf
+```
+
+The portfolio includes a resume link that points to this file.
+
+Visitors can access my academic background, skills, projects, experience, and certifications through the resume.
 
 ---
 
 ## 🔮 Future Improvements
 
-Potential enhancements for future versions include:
-
-* Adding more projects and project demonstrations.
-* Improving accessibility and keyboard navigation.
-* Further optimizing mobile layouts and responsiveness.
-* Enhancing SEO and website metadata.
-* Expanding the skills and achievements sections.
-* Adding certifications and additional professional experience.
-* Improving website performance and maintainability.
-* Updating portfolio content as new skills and projects are completed.
+- Adding more practical software development projects.
+- Improving accessibility and keyboard navigation.
+- Enhancing search engine optimization (SEO).
+- Further improving mobile responsiveness.
+- Adding more project demonstrations and live links.
+- Expanding professional experience and achievements.
+- Continuously updating technical skills and certifications.
 
 ---
 
@@ -287,25 +366,29 @@ Potential enhancements for future versions include:
 
 **Aman Kumar Pandey**
 
-* **GitHub Profile:** [aman-pandey-00](https://github.com/aman-pandey-00)
-* **Portfolio Website:** [Visit Portfolio](https://aman-pandey-00.github.io/Portfolio/)
+- **Email:** rampandey4636@gmail.com
+- **Phone:** +91 8853781310
+- **GitHub:** [aman-pandey-00](https://github.com/aman-pandey-00)
+- **LinkedIn:** [Aman Kumar Pandey](https://linkedin.com/in/aman-kumar-pandey-926953393)
+- **Portfolio:** [Visit My Portfolio](https://aman-pandey-00.github.io/Portfolio-/)
 
-For professional inquiries or collaboration opportunities, please use the contact information available on my portfolio website.
+For professional opportunities, collaboration, or technical discussions, feel free to connect with me.
 
 ---
 
 ## 📜 License
 
-No license has currently been specified for this repository.
+No open-source license has currently been specified for this repository.
 
-Unless a license is added, the source code remains subject to applicable copyright restrictions. If you wish to permit reuse, modification, or redistribution, consider adding an appropriate open-source license.
+Unless a license is added, the source code remains subject to applicable copyright restrictions.
 
 ---
 
 ## ⭐ Acknowledgements
 
-Thank you for visiting my portfolio repository.
+Thank you for visiting my personal portfolio repository.
 
-This project reflects my interest in technology, practical development, and continuous learning.
+This project represents my interest in software engineering, web development, data analytics, and continuous learning.
 
-**Developed and maintained by Aman Kumar Pandey.**
+**Designed and maintained by Aman Kumar Pandey.**
+
