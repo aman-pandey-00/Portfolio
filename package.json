@@ -1,0 +1,13 @@
+{
+  "name": "aman-portfolio-emailjs",
+  "version": "2.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node local-server.js",
+    "start": "node local-server.js"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,19 @@
+AMAN KUMAR PANDEY — PORTFOLIO QUICK START
+
+LOCAL PREVIEW
+1. Open this folder in VS Code or a terminal.
+2. Make sure Node.js 20 or later is installed.
+3. Run: npm start
+4. Open: http://localhost:3000
+
+GITHUB PAGES
+1. Upload the contents of this folder to the root of your GitHub repository.
+2. In GitHub, open Settings > Pages.
+3. Select Deploy from a branch, choose main and /(root), then Save.
+
+NOTES
+- Keep assets/profile.jpg; the portfolio uses it for the profile image.
+- The latest resume is embedded in index.html. The View Resume button does not need a separate PDF file.
+- .env is included only for local reference and is ignored by Git. Do not upload or commit it to a public repository.
+- The local server blocks HTTP requests for dotfiles such as .env.
+- GitHub Pages is static hosting; npm start is only for local preview.
